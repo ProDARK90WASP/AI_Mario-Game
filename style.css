@@ -1,0 +1,45 @@
+body{
+    background-image: url("background.jpg");
+    font-family: 'Chewy', cursive;
+}
+.button_instructions{
+ color: white;
+ border-color: white;
+ background-color: darkblue;
+ float: right;
+ border-radius: 5px;
+ font-size: 30px;
+}
+.div_heading{
+    width: 100%;
+    height: fit-content;
+}
+.Heading{
+    font-size: 50px;
+    display: inline;
+}
+.width{
+    width: 100%;
+}
+h4{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    width: 100%;
+    height: 30px;
+}
+.modal-dialog{
+    width: 90%;
+    border: 5px double white;
+}
+.instructions_img{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
